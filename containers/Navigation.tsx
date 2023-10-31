@@ -27,11 +27,14 @@ function Navigation() {
                   <span className="absolute -inset-0.5" />
                   <span className="sr-only">Open main menu</span>
 
+<div>
+  <h1 className="h-8">REBORN</h1>
+</div>
+                  
                 </Disclosure.Button>
               </div>
               <div className="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
                 <div className="flex flex-shrink-0 items-center">
-                    <h1 className="h-8 w-auto">REBORN</h1>
                 </div>
                 <div className="hidden sm:ml-6 sm:block">
                   <div className="flex space-x-4">
