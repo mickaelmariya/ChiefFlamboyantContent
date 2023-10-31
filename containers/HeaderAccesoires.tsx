@@ -9,7 +9,7 @@ function HeaderAccesoires() {
     >
       <div className="text-center">
         <h1 className="text-4xl font-bold text-white">
-          Collection Accessoires
+          Collection Accessoires mdrrrrrrrr
         </h1>
       </div>
     </div>
