@@ -9,7 +9,7 @@ function HeaderCategories() {
     >
         <div className="text-center">
           <h1 className="text-4xl font-bold text-white">
-            Collection Femme
+            Collection Femme oui
           </h1>
         </div>
       </div>
